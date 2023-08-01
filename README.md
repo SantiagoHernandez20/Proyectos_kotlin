@@ -20,7 +20,7 @@ git clone <URL del repositorio>
 
 ### Proyectos
 
-  - Cada uno de estos proyectos cuenta con su version personalizada
+    Cada uno de estos proyectos cuenta con su version personalizada
   
 Aquí está la lista de los proyectos disponibles en este repositorio:
 
