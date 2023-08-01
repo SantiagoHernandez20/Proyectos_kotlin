@@ -36,7 +36,7 @@ Aquí está la lista de los proyectos disponibles en este repositorio:
    
 ### Créditos
 
-Este repositorio es mantenido por [Santiago Montaño Hernandez].
+Este repositorio es mantenido por [Santiago Montaño Hernandez](https://github.com/SantiagoHernandez20).
 
    
   
