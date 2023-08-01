@@ -10,17 +10,17 @@ En este repositorio, encontraras varios proyectos desde la calculadora xml hasta
 
 Cada proyecto de este repositorio es individual tanto la version basica como la version personalizada y se puede ejecutar de manera unica. Para acceder a alguno de estos proyectos sigues los siguientes pasos:
 
-1. Clona este repositorio a tu máquina local utilizando el siguiente comando:
-
+ * Clona este repositorio a tu máquina local utilizando el siguiente comando:
+ 
 git clone <URL del repositorio>
 
-2. Ejecuta el proyecto que deseas abrir en tu IDE preferido (Android Studio)
-3.  
-4. Sigue las instrucciones específicas de cada proyecto para construir y ejecutar la aplicación.
+ * Ejecuta el proyecto que deseas abrir en tu IDE preferido (Android Studio)
+    
+   Sigue las instrucciones específicas de cada proyecto para construir y ejecutar la aplicación.
 
 ### Proyectos
 
-- Cada uno de estos proyectos cuenta con su version personalizada
+  - Cada uno de estos proyectos cuenta con su version personalizada
   
 Aquí está la lista de los proyectos disponibles en este repositorio:
 
