@@ -57,7 +57,6 @@ Este repositorio es mantenido por [Santiago Montaño Hernandez](github.com/Santi
    
   
      
-![WhatsApp Image 2024-02-08 at 4 35 37 PM](https://github.com/SantiagoHernandez20/Proyectos_kotlin/assets/98421206/f173fbfd-387c-4d66-850f-727d63bc31dc)
 
 
 
